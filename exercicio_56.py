@@ -24,7 +24,6 @@ for pessoa in range(1, 5):
         nome_homem_velho = nome
     if sexo in 'Ff' and idade < 20:
         total_mulher_20 += 1
-    
 media_idade = soma_idade / 4
 print(f'A média de idade do grupo é de {media_idade} anos')
 print(f'O homem mais velho tem {maior_idade_homem} e se chama {nome_homem_velho}')
