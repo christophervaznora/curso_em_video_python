@@ -1,7 +1,8 @@
 # Exercício Python 65:
-# Crie um programa que leia vários números inteiros pelo teclado.
-# No final, mostre a média entre todos os valores e qual foi o maior e o menor valores lidos.
-# O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores.
+'''Crie um programa que leia vários números inteiros pelo teclado.
+No final, mostre a média entre todos os valores e qual foi o maior e o menor valores lidos.
+O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores.'''
+
 resposta = 'S'
 media = soma = quantidade = maior = menor = 0
 while resposta in 'Ss':
