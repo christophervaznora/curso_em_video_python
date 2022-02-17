@@ -1,4 +1,5 @@
-
+from random import randint
+from datetime import sleep
 itens = ('pedra', 'papel', 'tesoura')
 computador = randint(0, 2)
 print('''Suas Opções:
