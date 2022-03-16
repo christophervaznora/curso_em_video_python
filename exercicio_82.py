@@ -18,5 +18,5 @@ for c in lista:
     else:
         impar.append(c)
 print(f'A lista completa é {lista}')
-print(f'A lista pare é {par}')
+print(f'A lista par é {par}')
 print(f'A lista ímpar é {impar}')
