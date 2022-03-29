@@ -2,6 +2,9 @@
     "python.pythonPath": "venv/bin/python",
     "code-runner.executorMap": {
         "python": "venv/bin/python",
-    }
+    },
+    "python.analysis.extraPaths": [
+        "./exercicio_111/utilidadesCeV"
+    ]
 
 }
